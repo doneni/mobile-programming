@@ -1,5 +1,4 @@
-# mobile-programming
-
+# 짝 맞추기 게임 / Mobile Programming 팀 프로젝트
 ## 패키지 구조
 ```bash
 com.example.game <br>
